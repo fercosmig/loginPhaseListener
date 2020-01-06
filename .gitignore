@@ -1,3 +1,9 @@
+.metadata
+.project
+.settings
+build
+target
+
 # Compiled class file
 *.class
 
